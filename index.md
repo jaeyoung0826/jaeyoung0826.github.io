@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 초보개발자들의 공간 
+title: 초보개발자 노트 
 subtitle: Two heads are better than one
 cover-img: /assets/img/black.jpg
 ---
