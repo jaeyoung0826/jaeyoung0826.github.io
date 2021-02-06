@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: 코린이의 잡다한 지식
+subtitle: KHU Computer Engineering
 cover-img: /assets/img/black.jpg
 ---
 
