@@ -2,7 +2,7 @@
 layout: post
 title: VLAN 이란 무엇일까?
 subtitle: 패킷트레이서로 보는 VLAN
-gh-repo: seokho-son/seokho-son.github.io
+gh-repo: jaeyoung0826/jaeyoung0826.github.io
 gh-badge: [star, fork, follow]
 tags: [test, markdown]
 comments: true
