@@ -31,9 +31,6 @@ comments: true
 그렇다면 왜 VLAN 의 특징에는 무엇이 있을까요?
 
 
-{: .box-note}
-**특징 :** 자원의 효율성이 좋아진다!
-
 우선 아래 그림은 VLAN 을 사용하지 않는 환경에서의 네트워크 구성을 표현한 것 입니다.
 
 ![그림1](https://github.com/jaeyoung0826/jaeyoung0826.github.io/blob/76543f3076b39df0d7ae2a49a4b5fb6c4b7c64f0/assets/img/vlan-1.PNG)
